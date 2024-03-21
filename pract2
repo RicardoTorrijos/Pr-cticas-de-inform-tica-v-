@@ -1,0 +1,41 @@
+<HTML>
+	<HEAD>
+	</HEAD>
+	<style>
+	.mycontainer{
+		display:flex;
+		}
+	
+	.mycontainer > div {
+				width:33%;
+				height:900px;
+				border:2px solid black;
+				Text-align:center;
+				}
+	.aliniacion{
+		padding:160px;
+	 	}
+
+	.aliniacion2{
+		padding:160px;
+	 	}
+
+	</style>
+		<body>
+		<div class="mycontainer">
+
+		<div style="background-color:#FFF4A3;"><P class="aliniacion"><h2>El perro, ​​​ llamado perro doméstico o can,
+		y en algunos lugares coloquialmente llamado chucho, ​ tuso, ​ choco, ​ entre otros;
+		es un mamífero carnívoro de la familia de los cánidos,
+		que constituye una especie del género Canis.</h2></p>​​</div>
+
+		<div style="background-color:#FFC0C7;"><center><IMG SRC="perro1.jpg" height="350" vspace="250"></center></div>
+
+		<div style="background-color:#D9EEE1;"><P class="aliniacion2"><h2>Los perros nacen sordos y ciegos.
+		La nariz de los perros puede llegar a tener hasta 300 millones de receptores olfativos.
+		Las papilas gustativas de los perros varían de 1,700 a 2,000 versus las casi 10,000 papilas gustativas que tenemos los humanos.
+		La inteligencia de los canes es similar a la de un niño de 2 años</h2></p></div>
+		
+		</div>
+		</body>
+</HTML>

@@ -1,0 +1,32 @@
+<HTML>
+	<HEAD>
+  	</HEAD>
+	<style>
+
+	.grid-container {
+ 			display: grid;
+			grid-template-columns: 33% 67%;
+			}
+	
+	.grid-container > div {
+			border: 2px solid black;
+			}
+	
+	.aliniacion{
+		padding:160px;
+	 	}
+
+	</style>
+		<body>
+		<div class="grid-container">
+
+		<div style="background-color:#FFF4A3;"><P class="aliniacion"><h2>El perro, ​​​ llamado perro doméstico o can,
+		y en algunos lugares coloquialmente llamado chucho, ​ tuso, ​ choco, ​ entre otros;
+		es un mamífero carnívoro de la familia de los cánidos,
+		que constituye una especie del género Canis.</h2></p>​​</div>
+		
+		<div style="background-color:#FFC0C7;"><center><IMG SRC="perro1.jpg" height="350" vspace="250"></center></div>
+
+		</div>
+		</body>
+</HTML>

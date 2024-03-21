@@ -1,0 +1,30 @@
+<HTML>
+	<HEAD>
+	</HEAD>
+
+		<BODY>
+
+		<CENTER>
+		<DIV STYLE="border: 5px solid #00ffff; Width:1250px; height:350;">
+		<CENTER><IMG SRC="ronaldo.jpg" height="320" vspace="10"></CENTER>
+		</DIV>
+		</CENTER>
+		<DIV>
+		<CENTER>
+
+		<P>
+		<font Face="Arial black" size="3" >
+		Cristiano Ronaldo dos Santos Aveiro es un jugador profesional de fútbol que lleva desde el 2001 fascinando a más de un espectador, pues desde sus inicios como profesional ha destacado en todas las capacidades que se miden en el fútbol: ritmo, pases, tiro y su magnífico regate.
+		La madre de Cristiano tenía alrededor de 30 años cuando quedó embarazada de él y, como en ese momento no tenían los recursos económicos suficientes, pensó en abortar, así lo manifestó en su libro “Madre, coraje, la vida, la fuerza y la fe de una luchadora”. Hecho que en el mundo se ha vuelto muy impactante, pues el fútbol se habría quedado sin uno de los mejores.
+		</FONT>
+		</P>
+		</CENTER>
+		</DIV>
+	
+		<CENTER>
+		<DIV STYLE="border: 5px solid #000000; Width:1250px; height:350;">
+		<CENTER><IMG SRC="ronaldo1.jpg" height="320" vspace="10"></CENTER>
+		</DIV>
+		</CENTER>
+		</BODY>
+</HTML>

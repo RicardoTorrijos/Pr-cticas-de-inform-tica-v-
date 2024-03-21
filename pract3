@@ -1,0 +1,71 @@
+<HTML>
+	<HEAD>
+  	</HEAD>
+	<style>
+
+	.grid-container {
+ 			display: grid;
+			grid-template-columns: 50% 50%;
+			
+			}
+	
+	.grid-container > div {
+			border: 2px solid black;
+			height:350px;
+			}
+
+	.aliniacion{
+		padding:50px;
+	 	}
+
+	.grid-container2 {
+ 			display: grid;
+			grid-template-columns: 100%;
+			
+			}
+	
+	.grid-container2 > div {
+			border: 2px solid black;
+			height:100px;
+			}
+	
+
+	.grid-container3 {
+ 			display: grid;
+			grid-template-columns: 50% 50%;
+			
+			}
+	
+	.grid-container3 > div {
+			border: 2px solid black;
+			height:350px;
+
+	</style>
+		<body>
+
+		<div class="grid-container">
+
+		<div style="background-color:#003399;"><P class="aliniacion"><h2>Creado por Akira Toriyama como protagonista de Dragon Ball, Son Goku se encuentra basado en uno de sus personajes anteriores, Tangtong, protagonista de Dragon Boy. En dicha historia, la característica física, fuera de lo común en tanto, eran sus alas. Cuando Toriyama se decidió a crear Dragon Ball, usó la obra Viaje al Oeste de Wu Cheng'en como inspiración para su propia serie, y tomó al protagonista de la historia, el rey mono Sun Wukong, para crear a su protagonista, incluyendo el nombre japones de dicho personaje.
+		.</h2></p>​​</div>
+		
+		<div style="background-color:#990066;"><center><IMG SRC="goku.jpg" height="350"></center></div>
+
+		</div>
+
+		<div class="grid-container2">
+
+		<div style="background-color:#9900CC;"><P><h2>Mide 1,75 m de estatura y pesa unos 62 kg de adulto[40], tiene el cabello de color negro con puntas y un brillo gris, este consiste en tres mechones colgando a la derecha de su frente y dos colgando a la izquierda, su cabello también se levanta en la frente con cuatro picos y tres mechones por detrás (más adelante en el anime, gana cinco picos en la frente y cuatro mechones por detrás). Esta forma capilar permanece sin alteración a lo largo de toda la serie en su estado base, únicamente cambiando cuando se transforma o si le hiciera un cambio estético con peine y gomina, como cuando trabajó como guardaespaldas[41] para mantener su cabello fijo, pero este volvió a su forma normal luego de unos minutos.
+		</h2></p></div>
+		
+		</div>
+
+		<div class="grid-container3">
+
+		<div style="background-color:#FFC0C7;"><center><IMG SRC="goku1.jpg" height="350"></center></div>
+
+		<div style="background-color:#FFC0C7;"><center><IMG SRC="goku2.jpg" height="350"></center></div>
+
+		</div>
+
+		</body>
+</HTML>
